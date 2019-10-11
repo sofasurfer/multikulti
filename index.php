@@ -1,4 +1,8 @@
-<?php include 'tpl/header.php'; ?>
+<?php 
+$page_language = "de";
+$page_title = "Multikulti Nähcafé - Biel / Bienne - für frauen";
+include 'tpl/header.php';
+?>
 <div class="jumbotron">
   <h1>Multikulti Nähcafé</h1>
   <h2>für frauen</h2>

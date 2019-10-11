@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="[[*languagecode]]">
+<html lang="<?= $page_language; ?>">
 <head>
     <meta charset="utf-8">
-    <title>Multikulti Nähcafé - Biel / Bienne - für frauen</title>
+    <title><?= $page_title; ?></title>
     <meta name="description" content="[[*description]]">
     <meta name="keywords" content="[[*introtext]]">    
     <meta name="viewport" content="width=device-width, initial-scale=1">
