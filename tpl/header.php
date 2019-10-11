@@ -2,7 +2,7 @@
 <html lang="[[*languagecode]]">
 <head>
     <meta charset="utf-8">
-    <title>[[*longtitle]]</title>
+    <title>Multikulti Nähcafé - Biel / Bienne - für frauen</title>
     <meta name="description" content="[[*description]]">
     <meta name="keywords" content="[[*introtext]]">    
     <meta name="viewport" content="width=device-width, initial-scale=1">
